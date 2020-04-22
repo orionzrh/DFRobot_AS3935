@@ -1,5 +1,7 @@
 # AS3935
 
+https://wiki.dfrobot.com/Gravity:%20Lightning%20Sensor%20SKU:%20SEN0290
+
 AS3935 Lightning Sensor can detect lightning and display the distance and intensity of the lightning without the disturbance of electric arc and noise.<br>
 It can be set as indoor or outdoor mode.<br>
 
